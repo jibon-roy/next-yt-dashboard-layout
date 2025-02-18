@@ -9,7 +9,6 @@ const config: Config = {
     "*.{js,ts,jsx,tsx,mdx}"
   ],
   theme: {
-
   	extend: {
   		colors: {
   			background: 'hsl(var(--background))',
